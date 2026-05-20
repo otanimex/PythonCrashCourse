@@ -1,0 +1,5 @@
+menu=("Ostiones","Paella","Coctel","Cazuela","Empanada")
+print(menu)
+# menu.append("Camarones")
+menu=("Ostiones","Paella","Coctel","Camarones","Jaiba")
+print(menu)
