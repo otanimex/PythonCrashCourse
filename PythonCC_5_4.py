@@ -1,12 +1,11 @@
 #########################################################################
 #   Python Crash Course                                                 #
 #   Chapter 5 If Statements                                             #
-#   Excersice 4 Alien Colors 2                                          #
+#   Exercise 4 Alien Colors 2                                           #
 #   By Otanimex                                                         #
 #   Instructions:                                                       #
-#   Imagine an alien was just shot down in a game. Create a variable    #
-#   called alien_color and assing it a value of 'gree', 'yellow', or    #
-#   'red'.                                                              #
+#   Choose a color for an alien as you did in Exercise 5-3, and write   #
+#   an if-else chain.                                                   #
 #########################################################################
 
 alien_color = "green"

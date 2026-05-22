@@ -1,7 +1,7 @@
 #########################################################################
 #   Python Crash Course                                                 #
 #   Chapter 5 If Statements                                             #
-#   Excersice 3 Alien Colors 1                                          #
+#   Exercise 3 Alien Colors 1                                           #
 #   By Otanimex                                                         #
 #   Instructions:                                                       #
 #   Imagine an alien was just shot down in a game. Create a variable    #
