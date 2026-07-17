@@ -1,7 +1,7 @@
 #########################################################################
 #   Python Crash Course                                                 #
 #   Chapter 8 Functions                                                 #
-#   Exercise  Cities                                                    #
+#   Exercise 5 Cities                                                    #
 #   By Otanimex                                                         #
 #   Instructions:                                                       #
 #   Write a function called describe_city() that accepts the name of    #
